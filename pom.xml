@@ -19,7 +19,7 @@
         <repository>
             <id>nexus</id>
             <name>Nexus-Releases</name>
-            <url>hhttp://13.53.235.246:8081/repository/maven-snapshots/</url>
+            <url>http://13.53.235.246:8081/repository/maven-snapshots/</url>
         </repository>
 
     </distributionManagement>
